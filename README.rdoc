@@ -18,8 +18,8 @@ Things you may want to cover:
 
 * How to run the test suite
 
-AngularJS Unit Testing: start scripts/test.sh
-AngularJS e2e Testing: open http://localhost:port/test/e2e/runner.html in your browser
+ * AngularJS Unit Testing: start sc ripts/test.sh
+ * AngularJS e2e Testing: open http://localhost:port/test/e2e/runner.html in your browser
 
 * Deployment instructions
 
